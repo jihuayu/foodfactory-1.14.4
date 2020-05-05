@@ -1,0 +1,11 @@
+{
+    "name": "木头",
+    "icon": "minecraft:oak_log",
+    "category": "begin",
+    "pages": [
+        {
+            "type": "text",
+            "text": "什么？树没长好？$(2br)不如跳支舞！"
+        }
+    ]
+}

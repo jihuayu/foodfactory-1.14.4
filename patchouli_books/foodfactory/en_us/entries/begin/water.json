@@ -1,0 +1,11 @@
+{
+    "name": "水",
+    "icon": "minecraft:water_bucket",
+    "category": "begin",
+    "pages": [
+        {
+            "type": "text",
+            "text": "潜行右键石质方块上的树叶，有概率把树叶变成水！$(2br)加油，快去干把！"
+        }
+    ]
+}

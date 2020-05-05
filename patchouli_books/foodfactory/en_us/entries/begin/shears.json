@@ -1,0 +1,11 @@
+{
+    "name": "剪刀",
+    "icon": "ceramicshears:ceramic_shears",
+    "category": "begin",
+    "pages": [
+        {
+            "type": "text",
+            "text": "做一个简单的剪刀！这样就能收集树叶了！"
+        }
+    ]
+}

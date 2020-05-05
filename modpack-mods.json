@@ -1,0 +1,301 @@
+[
+  {
+    "addon_id": 230976,
+    "slug": "fast-leaf-decay",
+    "name": "Fast Leaf Decay",
+    "strategy": "beta",
+    "new_version": "FastLeafDecay-v17",
+    "md5": "946c2a5a41fb0ad2b74181972ed20b8b",
+    "old_version": "FastLeafDecay-v22",
+    "file_id": 2758874
+  },
+  {
+    "addon_id": 361385,
+    "slug": "pams-harvestcraft-2-crops",
+    "name": "Pam's HarvestCraft 2 - Crops",
+    "strategy": "beta",
+    "new_version": "pamhc2crops-1.14.4-1.0.4",
+    "md5": "8e4b76a1ab167f1d06b8fa3006e1b717",
+    "old_version": "pamhc2crops-1.15.2-1.0.3",
+    "file_id": 2917750
+  },
+  {
+    "addon_id": 372534,
+    "slug": "pams-harvestcraft-2-food-core",
+    "name": "Pam's HarvestCraft 2 - Food Core",
+    "strategy": "beta",
+    "new_version": "pamhc2foodcore-1.14.4-1.0.3",
+    "md5": "9558e3d94b76f07588743a45d7ea4a7a",
+    "old_version": "pamhc2foodcore-1.15.2-1.0.3",
+    "file_id": 2927528
+  },
+  {
+    "addon_id": 244256,
+    "slug": "reap-mod",
+    "name": "Reap Mod",
+    "strategy": "beta",
+    "new_version": "[1.14.4] Reap Mod 1.10.2",
+    "md5": "be6524e8f30aa14bcf8a44b8a6059563",
+    "old_version": "[1.15.2] Reap Mod 1.12.3",
+    "file_id": 2807912
+  },
+  {
+    "addon_id": 231275,
+    "slug": "ding",
+    "name": "Ding",
+    "strategy": "beta",
+    "new_version": "Ding-1.14.4-1.1.0",
+    "md5": "5757f994a419f156bef814e411600495",
+    "old_version": "Ding-1.15.2-1.1.0",
+    "file_id": 2803055
+  },
+  {
+    "addon_id": 311880,
+    "slug": "tiny-mob-farm",
+    "name": "Tiny Mob Farm",
+    "strategy": "beta",
+    "new_version": "TinyMobFarm-1.14.4-1.0.6",
+    "md5": "a517eb85cea00244218e313a7713bfd0",
+    "old_version": "TinyMobFarm-1.15.2-1.0.7",
+    "file_id": 2890276
+  },
+  {
+    "addon_id": 246939,
+    "slug": "water-strainer",
+    "name": "Water Strainer",
+    "strategy": "beta",
+    "new_version": "WaterStrainer-1.14.4-7.0.2",
+    "md5": "0d5795f09fe3c5ab108a775942061e4a",
+    "old_version": "WaterStrainer-1.15.2-9.0.0",
+    "file_id": 2776361
+  },
+  {
+    "addon_id": 238222,
+    "slug": "jei",
+    "name": "Just Enough Items (JEI)",
+    "strategy": "alpha",
+    "new_version": "jei-1.14.4-6.0.0.27",
+    "md5": "a5b5f1adda70ed2663aad40079812437",
+    "old_version": "jei-1.15.2-6.0.0.4",
+    "file_id": 2847274
+  },
+  {
+    "addon_id": 253449,
+    "slug": "hwyla",
+    "name": "Hwyla",
+    "strategy": "beta",
+    "new_version": "Hwyla-forge-1.10.6-B67_1.14.4",
+    "md5": "d3880c8ecd37ea3f0c5983511c230c25",
+    "old_version": "Hwyla-forge-1.10.8-B72_1.15.2",
+    "file_id": 2777880
+  },
+  {
+    "addon_id": 250702,
+    "slug": "just-enough-characters",
+    "name": "Just Enough Characters",
+    "strategy": "beta",
+    "new_version": "JustEnoughCharacters-1.15.2-4.1.0",
+    "md5": "a5dfb78f2c44e79470b8eeceee7ec53b",
+    "old_version": "JustEnoughCharacters-1.15.2-4.1.0",
+    "file_id": 2897368
+  },
+  {
+    "addon_id": 271740,
+    "slug": "toast-control",
+    "name": "Toast Control",
+    "strategy": "beta",
+    "new_version": "ToastControl-1.14.4-2.2.0",
+    "md5": "ad3f9c580d06f364c8c7641440f3c761",
+    "old_version": "ToastControl-1.15.2-3.0.1",
+    "file_id": 2775591
+  },
+  {
+    "addon_id": 237701,
+    "slug": "reauth",
+    "name": "ReAuth",
+    "strategy": "beta",
+    "new_version": "ReAuth-3.8.0",
+    "md5": "5acca2eb59a46ad219944b68e2590cf4",
+    "old_version": "ReAuth-3.8.0",
+    "file_id": 2859264
+  },
+  {
+    "addon_id": 250398,
+    "slug": "controlling",
+    "name": "Controlling",
+    "strategy": "beta",
+    "new_version": "Controlling-5.0.7",
+    "md5": "e4b551a6d4f1a5d2f4efb41bf2a162be",
+    "old_version": "Controlling-6.1.4",
+    "file_id": 2925544
+  },
+  {
+    "addon_id": 223852,
+    "slug": "storage-drawers",
+    "name": "Storage Drawers",
+    "strategy": "beta",
+    "new_version": "StorageDrawers-1.14.4-6.0.7",
+    "md5": "660c4e5a875dce1d9e4c467ae3b14b8d",
+    "old_version": "StorageDrawers-1.15.2-7.0.2",
+    "file_id": 2915554
+  },
+  {
+    "addon_id": 354339,
+    "slug": "open-loader",
+    "name": "Open Loader",
+    "strategy": "beta",
+    "new_version": "OpenLoader-1.14.4-1.0.4",
+    "md5": "a85dffa03e0dcb0ba6380d96104df5bc",
+    "old_version": "OpenLoader-1.15.2-4.0.3",
+    "file_id": 2861288
+  },
+  {
+    "addon_id": 306770,
+    "slug": "patchouli",
+    "name": "Patchouli",
+    "strategy": "beta",
+    "new_version": "Patchouli-1.14.4-1.1-26.5",
+    "md5": "a53535b239981b49e85ca70f17af2961",
+    "old_version": "Patchouli-1.15.2-1.2-33",
+    "file_id": 2934252
+  },
+  {
+    "addon_id": 296028,
+    "slug": "lighting-wand",
+    "name": "🌟 Lighting Wand",
+    "strategy": "beta",
+    "new_version": "LightingWand-1.14.4-1.3.0",
+    "md5": "562b7bdd833f6cd8799278771bac3df0",
+    "old_version": "LightingWand-1.15.2-1.4.2",
+    "file_id": 2786655
+  },
+  {
+    "addon_id": 357557,
+    "slug": "libnonymous",
+    "name": "Libnonymous",
+    "strategy": "beta",
+    "new_version": "libnonymous-1.14.4-1.0.4.25",
+    "md5": "64089c2ee8301b3bdf5d1e0747437074",
+    "old_version": "libnonymous-1.15.2-1.1.1.5",
+    "file_id": 2865847
+  },
+  {
+    "addon_id": 283644,
+    "slug": "placebo",
+    "name": "Placebo",
+    "strategy": "beta",
+    "new_version": "Placebo-1.14.4-2.3.5",
+    "md5": "6155a243cba35f92de2224d9ad0a1ebc",
+    "old_version": "Placebo-1.15.2-3.0.2",
+    "file_id": 2830611
+  },
+  {
+    "addon_id": 287342,
+    "slug": "titanium",
+    "name": "Titanium",
+    "strategy": "beta",
+    "new_version": "titanium-1.14.4-2.2.10",
+    "md5": "8e739868544256b78a8c3ea227c688b6",
+    "old_version": "titanium-1.15.2-2.4.0",
+    "file_id": 2843374
+  },
+  {
+    "addon_id": 328085,
+    "slug": "create",
+    "name": "Create",
+    "strategy": "beta",
+    "new_version": "create-mc1.14.4_v0.2.2b",
+    "file_id": 2926732,
+    "md5": "91f3ace755056b319550417461d2ca0e"
+  },
+  {
+    "addon_id": 357178,
+    "slug": "mixinbootstrap",
+    "name": "MixinBootstrap",
+    "strategy": "beta",
+    "new_version": "MixinBootstrap-1.0.3",
+    "md5": "b62d187f409ba65c5226b0d874a9be41",
+    "old_version": "MixinBootstrap-1.0.3",
+    "file_id": 2939224
+  },
+  {
+    "addon_id": 246764,
+    "slug": "tree-growing-simulator",
+    "name": "Tree Growing Simulator",
+    "strategy": "beta",
+    "new_version": "TreeGrowingSimulator2020 - 1.0.0-beta+30",
+    "md5": "85af180c47b6b142c16d48a64cefbba1",
+    "old_version": "TreeGrowingSimulator2020 - 1.0.0-beta+31",
+    "file_id": 2837556
+  },
+  {
+    "addon_id": 250898,
+    "slug": "ore-excavation",
+    "name": "Ore Excavation",
+    "strategy": "beta",
+    "new_version": "OreExcavation-1.6.147",
+    "md5": "aaf02dd3d98fa08a4a56e0e032131752",
+    "old_version": "OreExcavation-1.7.151",
+    "file_id": 2853168
+  },
+  {
+    "addon_id": 271009,
+    "slug": "forgiving-void",
+    "name": "Forgiving Void",
+    "strategy": "beta",
+    "new_version": "ForgivingVoid_1.14.4-3.0.8",
+    "md5": "87f119802d1c36dc1eb258b7db486d3a",
+    "old_version": "Forgiving Void 1.15.x - 4.0.0",
+    "file_id": 2863247
+  },
+  {
+    "addon_id": 242568,
+    "slug": "clay-bucket",
+    "name": "Clay Bucket",
+    "strategy": "beta",
+    "new_version": "ClayBucket-1.15.2-forge-1.0",
+    "md5": "4b7d75d82e76331238fa3d79f0734e18",
+    "old_version": "ClayBucket-1.15.2-forge-1.0",
+    "file_id": 2908750
+  },
+  {
+    "addon_id": 363553,
+    "slug": "ceramic-shears",
+    "name": "Ceramic Shears",
+    "strategy": "beta",
+    "new_version": "Ceramic Shears 1.3.0 - MC 1.14.4",
+    "md5": "fd172340ef28ff71a8abfe4d10b61c09",
+    "old_version": "Ceramic Shears 1.3.0 - MC 1.15.2+",
+    "file_id": 2931914
+  },
+  {
+    "addon_id": 328085,
+    "slug": "modpack",
+    "name": "modpack",
+    "strategy": "none",
+    "downloadUrl": "https://jenkins.jihuayu.site/job/modpack-foodcraft/lastSuccessfulBuild/artifact/build/libs/modpack-1.15.2-1.0.0.jar",
+    "new_version": "modpack",
+    "fileName": "modpack.jar",
+    "old_version": "modpack"
+  },
+  {
+    "addon_id": 60089,
+    "slug": "mouse-tweaks",
+    "name": "Mouse Tweaks",
+    "strategy": "beta",
+    "new_version": "[1.14.4] Mouse Tweaks 2.13",
+    "md5": "619bda6d3e18b09f381479638d1d75f3",
+    "old_version": "[1.15.1] Mouse Tweaks 2.13",
+    "file_id": 2849218
+  },
+  {
+    "addon_id": 278993,
+    "slug": "bonsai-trees",
+    "name": "Bonsai Trees 2",
+    "strategy": "beta",
+    "new_version": "BonsaiTrees-2.0.2.35",
+    "md5": "275f164d3da0838a5dd0a727b18da512",
+    "old_version": "BonsaiTrees-2.1.2.6",
+    "file_id": 2859613
+  }
+]

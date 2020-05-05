@@ -1,0 +1,11 @@
+{
+    "name": "保护草地",
+    "icon": "minecraft:grass_block",
+    "category": "begin",
+    "pages": [
+        {
+            "type": "text",
+            "text": "保护好你的草地，说不定以后有用！"
+        }
+    ]
+}

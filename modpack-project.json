@@ -1,0 +1,18 @@
+{
+  "name": "foodfactory",
+  "mcversion": "1.14.4",
+  "author": "jihuayu",
+  "modloader": "forge",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "check_interval": 259200000,
+  "retry": {
+    "maxRetries": 2,
+    "delay": 3000
+  },
+  "download_timeout": 20000,
+  "max_download_threads": 5
+}

@@ -1,0 +1,11 @@
+{
+    "name": "石头",
+    "icon": "minecraft:stone",
+    "category": "begin",
+    "pages": [
+        {
+            "type": "text",
+            "text": "右键草地有概率获得圆石！$(2br)这样就能进入石器时代了！"
+        }
+    ]
+}

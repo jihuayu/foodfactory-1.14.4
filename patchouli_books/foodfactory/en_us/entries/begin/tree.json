@@ -1,0 +1,11 @@
+{
+    "name": "连锁",
+    "icon": "minecraft:stone_pickaxe",
+    "category": "begin",
+    "pages": [
+        {
+            "type": "text",
+            "text": "这个整合包有连锁挖矿，不要忘记哦！$(br2) 小心！不要把家挖没了！！！！"
+        }
+    ]
+}
